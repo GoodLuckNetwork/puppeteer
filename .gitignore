@@ -8,5 +8,5 @@
 *.pyc
 .vscode
 package-lock.json
+yarn.lock
 /node6
-/node6-test
